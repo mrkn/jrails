@@ -6,16 +6,8 @@ jRails is a drop-in jQuery replacement for the Rails Prototype/script.aculo.us h
 
 Install
 
-* .script/plugin install git://github.com/aaronchi/jrails.git
+* ./script/plugin install git://github.com/abhiyerra/jrails.git
 
 Project Site
 
-* http://code.google.com/p/ennerchi
-
-Web Site
-
-* http://www.ennerchi.com/projects/jrails
-
-Group Site
-
-* http://groups.google.com/group/jrails
+* http://github.com/abhiyerra/jrails
